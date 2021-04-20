@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/VaishnaveeSharma/ProjectCovid-19/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+<script type='text/javascript' src='https://10ay.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1366px; height: 818px;'><object class='tableauViz' width='1366' height='818' style='display:none;'><param name='host_url' value='https%3A%2F%2F10ay.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;covid19dashboardgovernmentpolicy' /><param name='name' value='CasesDeathsStringency&#47;MainDashboard' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
